@@ -1,20 +1,7 @@
 {
-  "verified_at_utc": "2026-11-14T01:52:58.451922+00:00",
+  "verified_at_utc": "2026-11-14T02:10:42.017552+00:00",
   "notebook": "机器视觉入门.ipynb",
-  "python": "3.12.14",
-  "opencv": "4.14.0",
-  "numpy": "2.5.4",
-  "matplotlib": "3.11.2",
-  "checks": [
-    {
-      "scenario": "complete notebook from repository root",
-      "code_cells": 26,
-      "status": "passed"
-    },
-    {
-      "scenario": "setup plus homework only from lab directory; identical output images",
-      "code_cells": 5,
-      "status": "passed"
-    }
-  ]
+  "code_cells": 117,
+  "working_directory": "lab",
+  "status": "passed"
 }

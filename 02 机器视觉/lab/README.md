@@ -9,6 +9,7 @@
 ```text
 lab/
 ├── 机器视觉入门.ipynb       # 从环境准备到作业提交，全部在这里
+├── display_tools.py         # 对比图排版工具，学习时无需打开
 ├── requirements.txt
 ├── assets/                 # 已提供的五张素材，无需逐个打开
 ├── outputs/                # 自动生成的练习结果与作业图片
