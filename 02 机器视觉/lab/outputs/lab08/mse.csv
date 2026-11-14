@@ -1,0 +1,9 @@
+noise,filter,mse
+gaussian,Noisy,343.570068359375
+gaussian,Mean,122.96804809570312
+gaussian,Gaussian,78.62274169921875
+gaussian,Median,91.5501480102539
+salt_pepper,Noisy,1098.1639404296875
+salt_pepper,Mean,167.45077514648438
+salt_pepper,Gaussian,138.44700622558594
+salt_pepper,Median,51.19615936279297

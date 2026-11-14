@@ -1,0 +1,76 @@
+[
+  {
+    "file": "pdf/bottle_cap.png",
+    "description": "安装与路径验证；通道与颜色量化；融合叠加图；灰度/彩色直方图；加噪、去噪和锐化",
+    "size": [
+      370,
+      370
+    ],
+    "required_labs": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      8
+    ],
+    "purpose": "安装与路径验证；通道与颜色量化；融合叠加图；灰度/彩色直方图；加噪、去噪和锐化"
+  },
+  {
+    "file": "pdf/coins.png",
+    "description": "读取、BGR/RGB 显示、水平/垂直翻转、无损保存与重读验证",
+    "size": [
+      632,
+      419
+    ],
+    "required_labs": [
+      3
+    ],
+    "purpose": "读取、BGR/RGB 显示、水平/垂直翻转、无损保存与重读验证"
+  },
+  {
+    "file": "pdf/circuit_board.png",
+    "description": "灰度腐蚀与膨胀；高斯和中值滤波",
+    "size": [
+      514,
+      510
+    ],
+    "required_labs": [
+      7,
+      8
+    ],
+    "purpose": "灰度腐蚀与膨胀；高斯和中值滤波",
+    "optional_labs": [
+      5
+    ]
+  },
+  {
+    "file": "pdf/mechanical_part.png",
+    "description": "Otsu 反二值化与白色前景形态学；Sobel 方向梯度、合成和阈值",
+    "size": [
+      636,
+      412
+    ],
+    "required_labs": [
+      7,
+      9
+    ],
+    "purpose": "Otsu 反二值化与白色前景形态学；Sobel 方向梯度、合成和阈值"
+  },
+  {
+    "file": "user/panda.jpg",
+    "description": "翻转；颜色量化；图像融合底图；Sobel 纹理对比",
+    "required_labs": [
+      3,
+      4,
+      5,
+      9
+    ],
+    "purpose": "翻转；颜色量化；图像融合底图；Sobel 纹理对比",
+    "optional_labs": [
+      6,
+      7,
+      8
+    ]
+  }
+]

@@ -1,0 +1,80 @@
+{
+  "verified_at_utc": "2026-11-13T03:35:34.019074+00:00",
+  "python": "3.12.14",
+  "opencv": "4.14.0",
+  "numpy": "2.5.4",
+  "matplotlib": "3.11.2",
+  "method": "nbclient; fresh interpreter kernel for every run; execution stops on first error",
+  "checks": [
+    {
+      "notebook": "lab01_install_opencv/lab01.ipynb",
+      "cwd": "lab01_install_opencv",
+      "code_cells": 4,
+      "display_outputs": 2,
+      "status": "passed"
+    },
+    {
+      "notebook": "lab02_vscode_jupyter/lab02.ipynb",
+      "cwd": "lab02_vscode_jupyter",
+      "code_cells": 4,
+      "display_outputs": 2,
+      "status": "passed"
+    },
+    {
+      "notebook": "lab03_image_io/lab03.ipynb",
+      "cwd": "lab03_image_io",
+      "code_cells": 5,
+      "display_outputs": 4,
+      "status": "passed"
+    },
+    {
+      "notebook": "lab04_color_adjustment/lab04.ipynb",
+      "cwd": "lab04_color_adjustment",
+      "code_cells": 5,
+      "display_outputs": 6,
+      "status": "passed"
+    },
+    {
+      "notebook": "lab05_image_blending/lab05.ipynb",
+      "cwd": "lab05_image_blending",
+      "code_cells": 4,
+      "display_outputs": 3,
+      "status": "passed"
+    },
+    {
+      "notebook": "lab06_histogram/lab06.ipynb",
+      "cwd": "lab06_histogram",
+      "code_cells": 4,
+      "display_outputs": 4,
+      "status": "passed"
+    },
+    {
+      "notebook": "lab07_morphology/lab07.ipynb",
+      "cwd": "lab07_morphology",
+      "code_cells": 4,
+      "display_outputs": 6,
+      "status": "passed"
+    },
+    {
+      "notebook": "lab08_filtering/lab08.ipynb",
+      "cwd": "lab08_filtering",
+      "code_cells": 5,
+      "display_outputs": 7,
+      "status": "passed"
+    },
+    {
+      "notebook": "lab09_edge_detection/lab09.ipynb",
+      "cwd": "lab09_edge_detection",
+      "code_cells": 5,
+      "display_outputs": 8,
+      "status": "passed"
+    },
+    {
+      "notebook": "lab03_image_io/lab03.ipynb",
+      "cwd": ".",
+      "code_cells": 5,
+      "display_outputs": 4,
+      "status": "passed"
+    }
+  ]
+}

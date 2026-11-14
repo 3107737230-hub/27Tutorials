@@ -1,0 +1,31 @@
+{
+  "method": "Compare image path string literals in code cells with manifest required_labs; optional Markdown exercises excluded.",
+  "status": "passed",
+  "inputs": {
+    "pdf/bottle_cap.png": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      8
+    ],
+    "pdf/coins.png": [
+      3
+    ],
+    "pdf/circuit_board.png": [
+      7,
+      8
+    ],
+    "pdf/mechanical_part.png": [
+      7,
+      9
+    ],
+    "user/panda.jpg": [
+      3,
+      4,
+      5,
+      9
+    ]
+  }
+}
